@@ -14,4 +14,9 @@ vegitables like
 potato 
 beans
 
+frouits
+apple
+banana
+mango
+
 
